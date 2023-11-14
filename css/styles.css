@@ -60,6 +60,13 @@ h2 {
 }
 
 /*-------*/
+
+h1{
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+}
 img{
   width:200px;
   height: 300px
